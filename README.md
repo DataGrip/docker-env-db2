@@ -1,2 +1,1 @@
-# docker-env-db2
-Temporary repo for docker db2 automated builds due to docker hub issue
+# docker-db2 based on https://hub.docker.com/r/ibmcom/db2express-c/
